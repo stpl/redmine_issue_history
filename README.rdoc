@@ -6,8 +6,8 @@
 
 == Uninstall
 
-rake redmine:plugins NAME= redmine_issue_history RAILS_ENV=production
-rm -r plugins/redmine_issue_history
+* rake redmine:plugins NAME= redmine_issue_history RAILS_ENV=production
+* rm -r plugins/redmine_issue_history
 
 == Requirements
 
