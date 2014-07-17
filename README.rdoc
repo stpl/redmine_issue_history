@@ -9,6 +9,11 @@
 * rake redmine:plugins NAME= redmine_issue_history RAILS_ENV=production
 * rm -r plugins/redmine_issue_history
 
+== How it works
+
+* Go to issue list.
+* Select an issue. Go to tab "Comments". This will have all the comments.
+
 == Requirements
 
 * Redmine 2.2.4.stable and above
