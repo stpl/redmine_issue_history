@@ -16,7 +16,7 @@
   </ul>
 </div>
 <% reply_links = authorize_for('issues', 'edit') -%>
-<% for journal in journals.sort.reverse%>
+<% for journal in journals %>
   <% if selected_tab == 'history-all' || journal.css_classes == 'journal has-notes'%>
     <div id="change-<%= journal.id %>" class="<%= journal.css_classes %>">
       <h4><%= link_to "##{journal.indice}", {:anchor => "note-#{journal.indice}"}, :class => "journal-link" %>
