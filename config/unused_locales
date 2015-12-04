@@ -17,3 +17,15 @@ eo: # esperanto
 gug: # guarani
   label_history_tab_all: Tembiasakue
   label_history_tab_comments: Oje'éva
+
+is: # Icelandic
+  label_history_tab_all: Ferill
+  label_history_tab_comments: Athugasemdir
+
+kk: # Kazakh
+  label_history_tab_all: Тарихы
+  label_history_tab_comments: Пікірлер
+
+vec: # Venetian
+  label_history_tab_all: Storia
+  label_history_tab_comments: Comenti
