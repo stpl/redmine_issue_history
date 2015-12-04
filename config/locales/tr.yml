@@ -1,4 +1,3 @@
 tr:
-   label_history_tab_all: Geçmiş
-   label_history_tab_comments: Yorumlar
-
+  label_history_tab_all: Geçmiş
+  label_history_tab_comments: Yorumlar
