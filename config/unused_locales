@@ -1,0 +1,19 @@
+gd: # gaelic
+  label_history_tab_all: An eachdraidh
+  label_history_tab_comments: Beachdan
+
+ml: # malayalam
+  label_history_tab_all: നാള്‍വഴി
+  label_history_tab_comments: അഭിപ്രായങ്ങള്‍
+
+br: # breton
+  label_history_tab_all: Roll istor
+  label_history_tab_comments: Askelennoù
+
+eo: # esperanto
+  label_history_tab_all: Historio
+  label_history_tab_comments: Komentaro
+
+gug: # guarani
+  label_history_tab_all: Tembiasakue
+  label_history_tab_comments: Oje'éva
