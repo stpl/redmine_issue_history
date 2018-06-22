@@ -1,0 +1,6 @@
+$('#history .journal').removeClass('odd').removeClass('even');
+
+// Note that, confusingly, jQuery's filter pseudos are 0-indexed while CSS :nth-child() is 1-indexed
+$('#history .journal:visible:even').addClass('odd');
+$('#history .journal:visible:odd').addClass('even');
+
